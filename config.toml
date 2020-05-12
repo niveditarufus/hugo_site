@@ -1,0 +1,81 @@
+baseURL = "https://niveditarufus.github.io/"
+
+publishDir = "niveditarufus.github.io"
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "en"
+# language code
+languageCode = "en"
+enableInlineShortcodes = true
+enableEmoji = true
+title = "Nivedita Rufus"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "LoveIt"
+
+
+  [[menu.main]]
+    identifier = "posts"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+    [[menu.main]]
+    identifier = "github"
+    pre = "<i class='fab fa-github fa-fw'></i>"
+    post = ""
+    name = ""
+    url = "https://github.com/niveditarufus"
+    title = "GitHub"
+    weight = 6
+    [[menu.main]]
+    identifier = "facebook"
+    pre = "<i class='fab fa-facebook fa-fw'></i>"
+    post = ""
+    name = ""
+    url = "https://www.facebook.com/NiveRufus/"
+    title = "facebook"
+    weight = 6
+    [[menu.main]]
+    identifier = "linkedin"
+    pre = "<i class='fab fa-linkedin fa-fw'></i>"
+    post = ""
+    name = ""
+    url = "https://www.linkedin.com/in/nivedita-rufus-01b1b1193/"
+    title = "linkedin"
+    weight = 6
+
+[params]
+
+  # LoveIt theme version
+  version = "0.2.X"
+  defaultTheme = "dark"
+  fingerprint = ""
+  # date format
+  # 日期格式
+  dateFormat = "2006-01-02"
+
+  [params.home]
+    # amount of RSS pages
+    rss = 10
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      # Gravatar Email for preferred avatar in home page
+      gravatarEmail = ""
+      # URL of avatar shown in home page
+      avatarURL = "/images/About-Me/me.jpg"
+      # title shown in home page
+      title = ""
+      # subtitle shown in home page
+      subtitle = "My GSoC 2020 Journey" 
+      typeit = true
+
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      paginate = 2
