@@ -78,4 +78,4 @@ theme = "LoveIt"
     [params.home.posts]
       enable = true
       # special amount of posts in each home posts page
-      paginate = 2
+      paginate = 6
