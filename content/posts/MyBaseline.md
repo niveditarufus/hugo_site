@@ -25,6 +25,7 @@ In my earlier [post](https://niveditarufus.github.io/posts/project-phase/), I ha
 1. [Deep-SORT](https://arxiv.org/pdf/1703.07402.pdf)
 2. [CSRNet](https://arxiv.org/pdf/1802.10062.pdf)
 3. [SS-DCNet](https://arxiv.org/pdf/2001.01886.pdf)  
+
 On analyzing these techniques, It can be seen that the first approach can be used in case of the first scenario, where we have cameras at entrances. While the next, two approaches are more suited to the second scenario.
 I intend to use the Deep SORT approach and see whether it is able to perform better than the current baseline which uses the MobileNet SSD model. 
 
