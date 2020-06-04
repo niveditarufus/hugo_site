@@ -29,10 +29,10 @@ In this process I learned that due to significant refactoring done in the latest
 `processed_image_cpu = transforms.image_transform(image.copy())`  
 in [specificworker.py](https://github.com/robocomp/human-detection/blob/master/components/openpifpafserver/src/specificworker.py) to:  
 `processed_image_cpu, _, __ = transforms.EVAL_TRANSFORM(image_pil, [], None)`  
-because `image_transform` is no longer in `openpifpaf.transforms.`
+because `image_transform` is no longer in `openpifpaf.transforms.` because of the version update of OpenpifPaf Library.  
 2. I also had to convert the image to a PIL image before passing it throught the function mentioned above from a CV2 image as the function only accepts PIL image with the following: 
-`image_pil = PIL.Image.fromarray(image)`
+`image_pil = PIL.Image.fromarray(image)`  
 
-There is another small bug that needs to be fixed. I will update that soon!!
+There were also a few very minor bugs which I fixed. So Now the component is up and running and I have made [Pull-request](https://github.com/robocomp/human-detection/pull/5) for the same, do check it out!!!
 
-##### Status: In-progress
+##### Status: Under Review
