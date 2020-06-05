@@ -38,3 +38,4 @@ I intend to use the following pre-processing step:
 Since this may not be a viable option for a building with a lot of rooms, I also propose another approach to track people entering and leaving the building using the cameras at entrances.
 Therefore, I intend to go with a Deep-SORT based approach to track people and compare it with the existing [baseline](https://niveditarufus.github.io/posts/mybaseline/). I will also look at some more approaches on the same lines as Deep-SORT just to be sure that I have what works the best.
 
+##### Status: happy :smiley:
