@@ -27,6 +27,6 @@ In my earlier [post](https://niveditarufus.github.io/posts/project-phase/), I ha
 3. [SS-DCNet](https://arxiv.org/pdf/2001.01886.pdf)  
 
 On analyzing these techniques, It can be seen that the first approach can be used in case of the first scenario, where we have cameras at entrances. While the next, two approaches are more suited to the second scenario.
-I intend to use the Deep SORT approach and see whether it is able to perform better than the current baseline which uses the MobileNet SSD model. 
+I intend to use the Deep SORT approach and see whether it is able to perform better than the current baseline which uses the MobileNet SSD model for tracking people entering and exiting the building and the CSRNet or SS-DCNet for keeping a count of people in each room that are fitted with cameras. 
 
 ##### Status: Still Excited :joy::joy:
