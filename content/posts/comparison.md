@@ -36,6 +36,6 @@ On looking at the MAE of both these methods it is clear that SS-DCNet performs b
 I intend to use the following pre-processing step:  
 {{< figure src="/images/comparison/preprocess.png" title="Pre-processing step for multiple views" >}}  
 Since this may not be a viable option for a building with a lot of rooms, I also propose another approach to track people entering and leaving the building using the cameras at entrances.
-Therefore, I intend to go with a Deep-SORT based approach to track people and compare it with the existing [baseline](https://niveditarufus.github.io/posts/mybaseline/). I will also look at some more approaches on the same lines as Deep-SORT just to be sure that I have what works the best.
+Therefore, I intend to go with a Deep-SORT based approach to track people and compare it with the existing [baseline](https://niveditarufus.github.io/posts/mybaseline/). I will also look at some more approaches on the same lines as Deep-SORT just to be sure that I have what works the best.  
 
-##### Status: happy :smiley:
+##### Status: Happy :smiley::smiley:
