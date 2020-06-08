@@ -48,6 +48,14 @@ theme = "LoveIt"
     url = "https://www.linkedin.com/in/nivedita-rufus-01b1b1193/"
     title = "linkedin"
     weight = 6
+    [[menu.main]]
+    identifier = "telegram"
+    pre = "<i class='fab fa-telegram fa-fw'></i>"
+    post = ""
+    name = ""
+    url = "https://t.me/NiveditaRufus"
+    title = "telegram"
+    weight = 6
 
 [params]
 
