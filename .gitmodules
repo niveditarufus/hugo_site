@@ -1,3 +1,9 @@
 [submodule "niveditarufus.github.io"]
 	path = niveditarufus.github.io
 	url = git@github.com:niveditarufus/niveditarufus.github.io.git
+[submodule "themes/themes/LoveIt"]
+	path = themes/themes/LoveIt
+	url = https://github.com/niveditarufus/LoveIt.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/niveditarufus/LoveIt.git
