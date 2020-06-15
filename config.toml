@@ -87,3 +87,8 @@ theme = "LoveIt"
       enable = true
       # special amount of posts in each home posts page
       paginate = 10
+
+  [params.page.toc]
+    enable = true
+    keepStatic = false
+    auto = true
