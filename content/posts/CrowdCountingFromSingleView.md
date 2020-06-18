@@ -15,7 +15,7 @@ I have successfully completed the first milestone of my GSoC which was to count 
 {{< figure src="/images/CrowdCountingFromSingleView/example.jpg" title="An example of the of the People Counter employed through SS-DCNet" >}} 
 
 ###### Observations:
-The SS-DCNet fails sometimes when the number of people in the scene is say 2 or 3 as it is trained on overcrowded datasets.This may resolved if we train the network to perform in the setting in which we want to count the people or have a model that is suited to scarcely populated images whenever the SS-DCNet returns a count less than some given threshold.
+The SS-DCNet fails sometimes when the number of people in the scene is say 2 or 3 as it is trained on overcrowded datasets. This may resolved if we train the network to perform in the setting in which we want to count the people or have a model that is suited to scarcely populated images whenever the SS-DCNet returns a count less than some given threshold.
 This I will try to resolve in the coming weeks on the advise of my mentors.
 
 ##### Status: Under Review
