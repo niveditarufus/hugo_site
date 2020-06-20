@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 1
 title: "Contribution 6: Crowd Counting From Single View"
 date: 2020-06-15T21:54:49+05:30
 draft: false

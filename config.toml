@@ -89,6 +89,6 @@ theme = "LoveIt"
       paginate = 10
 
   [params.page.toc]
-    enable = true
+    enable = false
     keepStatic = false
     auto = true

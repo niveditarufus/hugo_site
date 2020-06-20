@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 4
 title: "Project Phase - The Onset "
 date: 2020-05-25T20:46:07+05:30
 draft: false

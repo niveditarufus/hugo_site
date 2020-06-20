@@ -1,5 +1,5 @@
 ---
-weight: 9
+weight: 2
 title: "Comparison of methods"
 date: 2020-06-05T22:39:07+05:30
 draft: false

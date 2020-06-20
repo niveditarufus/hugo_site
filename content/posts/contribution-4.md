@@ -1,6 +1,6 @@
 ---
-weight: 6
-title: "Contribution 4: Porting to Python 3 and changes that is required because of refactoring in the existing python library"
+weight: 5
+title: "Contribution 4: Porting to Python 3 and and other changes"
 date: 2020-05-17T15:02:35+05:30
 draft: false
 author: "Nivedita Rufus"

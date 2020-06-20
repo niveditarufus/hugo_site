@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "About Me"
 date: 2020-05-11T20:48:48+05:30
 lastmod: 2020-05-11T20:48:48+05:30
