@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Contribution 6: Crowd Counting From Single View"
+title: "Contribution 6: Crowd Counting From Single View with SSDCNet"
 date: 2020-06-15T21:54:49+05:30
 draft: false
 author: "Nivedita Rufus"
