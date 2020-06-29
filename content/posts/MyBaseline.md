@@ -11,7 +11,7 @@ toc:
   auto: false
 ---
 
-The project phase has started. I have made a standalone standalone python project to count people which will be my baseline to test different methods. You can find it [here](https://github.com/niveditarufus/People_counter). This is a refactored version of the existing [PeopleCounter](https://github.com/niveditarufus/human-detection/tree/master/components/peopleCounter) module of RoboComp. Once, the most suited method is chosen, I will integrate it with RoboComp architecture which forms the final stage of the project.  
+The project phase has started. I have made a standalone python project to count people which will be my baseline to test different methods. You can find it [here](https://github.com/niveditarufus/People_counter). This is a refactored version of the existing [PeopleCounter](https://github.com/niveditarufus/human-detection/tree/master/components/peopleCounter) module of RoboComp. Once, the most suited method is chosen, I will integrate it with RoboComp architecture which forms the final stage of the project.  
 
 {{< figure src="/images/MyBaseline/demo.gif" title="A short demo" >}}  
 So there, two ways to count people inside a building:  
