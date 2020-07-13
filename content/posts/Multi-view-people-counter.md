@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Multi View People Counter"
+title: "Contribution 8: Multi View People Counter"
 date: 2020-07-10T14:45:47+05:30
 draft: false
 author: "Nivedita Rufus"
@@ -21,3 +21,5 @@ An example of the same is shown below:
 The next step is to pass the stitched image into the counter module along with the SS-DCNet model and a filter method as suited to your requirement. One can immediately spot two obvious issues the preprocessing step, that is the performance overhead which can be overcome by adjusting some parameters and the second one is that this will work only for partially-overlapping views, i.e., the image captured by each camera should consist of the common area as well as some uncommon area. This cannot be applied to images captured from two corners of the room covering the entire room but having two different perspectives.  
 Given below is a short demo of this algorithm of counting image from the stitched image.  
 {{< figure src="/images/Multi-View-People-Counter/stitched.gif" title="No. of people from the stitched Image" >}}  
+
+##### Status: Under Review
