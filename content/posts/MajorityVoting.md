@@ -11,7 +11,7 @@ toc:
   auto: false
 ---
 
-This is my last contribution to the second phase of my GSoC journey. Here, I have implemented the [Boyer-Moore Majority Vote algorithm](https://www.cs.utexas.edu/~moore/best-ideas/mjrty/) for video feeds from multiple cameras from different perspectives, i.e. for views shwnm below. (Image Source: [SALSA dataset](https://tev.fbk.eu/salsa)) 
+This is my last contribution to the second phase of my GSoC journey. Here, I have implemented the [Boyer-Moore Majority Vote algorithm](https://www.cs.utexas.edu/~moore/best-ideas/mjrty/) for video feeds from multiple cameras from different perspectives, i.e. for views shown below. (Image Source: [SALSA dataset](https://tev.fbk.eu/salsa)) 
 {{< figure src="/images/MajorityVoting/cam1.jpg" title="Camera: 1" >}}  
 {{< figure src="/images/MajorityVoting/cam2.jpg" title="Camera: 2" >}}  
 {{< figure src="/images/MajorityVoting/cam3.jpg" title="Camera: 3" >}}  
