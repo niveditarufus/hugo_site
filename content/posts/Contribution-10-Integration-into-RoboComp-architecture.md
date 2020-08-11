@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Contribution 10 Integration Into RoboComp Architecture"
+title: "Contribution 10: Integration Into RoboComp Architecture"
 date: 2020-08-10T13:01:51+05:30
 draft: false
 author: "Nivedita Rufus"
