@@ -20,7 +20,6 @@ The config file requires 6 parameters to be initialised:
 4. **skip_frames:** No. of frames that need to be skipped.
 5. **stitch:** Set this to true if there are multiple video feeds and you want the count values to be obtained post stitching the videos together. setting this to false will assume majority voting.
 6. **video:** Path/URL of videos. You can set this None if you want to start a webcam stream.  
-
 The structure of the code follows the Finite State machine style which can be easily understood with the following diagram:  
 {{< figure src="/images/Integration/fsm.png" title="State Transition diagram" >}}  
 This style of programming ensures easy upgrades in the future without much rewriting of code. The new blocks can just be plugged into the existing modules. The final result of the People counter working from the RoboComp architecture is given below(Image Source: [SALSA dataset](https://tev.fbk.eu/salsa)).  
