@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 18
 title: "Contribution 10: Integration Into RoboComp Architecture"
 date: 2020-08-10T13:01:51+05:30
 draft: false
@@ -23,6 +23,7 @@ The config file requires 6 parameters to be initialised:
 The structure of the code follows the Finite State machine style which can be easily understood with the following diagram:  
 {{< figure src="/images/Integration/fsm.png" title="State Transition diagram" >}}  
 This style of programming ensures easy upgrades in the future without much rewriting of code. The new blocks can just be plugged into the existing modules. The final result of the People counter working from the RoboComp architecture is given below(Image Source: [SALSA dataset](https://tev.fbk.eu/salsa)).  
-{{< figure src="/images/Integration/counting.gif" title=" RoboComp People Counter with SS-DCNet" >}}
+{{< figure src="/images/Integration/counting.gif" title=" RoboComp People Counter with SS-DCNet" >}}  
+I have compiled all my contributions in this branch of the [Human-Detection](https://github.com/niveditarufus/human-detection/tree/gsoc) repository and made a [pull request](https://github.com/robocomp/human-detection/pull/6) for the same.  
 
 ##### Status: Under Review

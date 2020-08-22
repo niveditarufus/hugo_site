@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 14
 title: "Contribution 8: Multi View People Counter"
 date: 2020-07-10T14:45:47+05:30
 draft: false

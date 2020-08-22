@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 15
 title: "Image Stitching"
 date: 2020-07-22T16:48:57+05:30
 draft: false

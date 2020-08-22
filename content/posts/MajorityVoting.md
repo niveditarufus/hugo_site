@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 16
 title: "Contribution 9: Majority Voting"
 date: 2020-07-28T12:21:44+05:30
 draft: false

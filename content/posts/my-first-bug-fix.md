@@ -1,5 +1,5 @@
 ---
-weight: 8
+weight: 3
 title: "Contribution 1: My First Bug Fix"
 date: 2020-05-12T21:03:58+05:30
 draft: false

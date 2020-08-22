@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 12
 title: "Contribution 7: Filtering Methods"
 date: 2020-06-29T14:55:41+05:30
 draft: false

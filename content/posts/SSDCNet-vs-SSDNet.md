@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 11
 title: "SSDCNet vs SSDNet"
 date: 2020-06-20T15:27:24+05:30
 draft: false
