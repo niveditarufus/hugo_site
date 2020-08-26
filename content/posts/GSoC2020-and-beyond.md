@@ -22,6 +22,6 @@ Given an image that is most likely from an overhead view, there are no existing 
 All these above-mentioned models need to be trained from scratch for images that are suited to our application.
 This [repository](https://github.com/facebookresearch/DensePose) is also a suitable candidate in the same field but I have not been able to test it to give enough insights for it.  
 
-Retraining the existing models with some parameter changes would be a very interesting thing to checkout and see if it serves our purpose.  
+Retraining the existing models with some parameter changes would be a very interesting thing to checkout and see if it serves our purpose. This will definitely be direction of future work.  
 
 ##### Status: Hopeful:relieved:
