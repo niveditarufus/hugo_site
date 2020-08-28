@@ -23,4 +23,4 @@ We can see that the SSDCNet based counter performs better in comparison with the
 2. Use some filtering techniques to smooth out unrealistic jumps in the no. of people in a continuous video feed.  
 
 
-##### Status: Under Review
+##### Status: Reviewed

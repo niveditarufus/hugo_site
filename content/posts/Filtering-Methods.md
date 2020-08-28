@@ -23,4 +23,4 @@ I have also updated the [code](https://github.com/niveditarufus/PeopleCounter-SS
   
 I am truly happy as the first phase of the project comes to a close and I really hope I have been able to do justice to it. Looking forward to the next phase!! :smiley:  
 
-##### Status: Under Review
+##### Status: Reviewed

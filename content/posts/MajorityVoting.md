@@ -32,4 +32,4 @@ Given below is the results of the case when image stitching is possible and the 
 {{< figure src="/images/Multi-View-People-Counter/stitched.gif" title="No. of people from the stitched Image" >}}  
 
 
-##### Status: Under Review
+##### Status: Reviewed

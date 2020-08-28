@@ -26,4 +26,4 @@ This style of programming ensures easy upgrades in the future without much rewri
 {{< figure src="/images/Integration/counting.gif" title=" RoboComp People Counter with SS-DCNet" >}}  
 I have compiled all my contributions in this branch of the [Human-Detection](https://github.com/niveditarufus/human-detection/tree/gsoc) repository and made a [pull request](https://github.com/robocomp/human-detection/pull/6) for the same.  
 
-##### Status: Under Review
+##### Status: Merged

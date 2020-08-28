@@ -22,4 +22,4 @@ The next step is to pass the stitched image into the counter module along with t
 Given below is a short demo of this algorithm of counting image from the stitched image.  
 {{< figure src="/images/Multi-View-People-Counter/stitched.gif" title="No. of people from the stitched Image" >}}  
 
-##### Status: Under Review
+##### Status: Reviewed

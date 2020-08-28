@@ -35,4 +35,4 @@ because `image_transform` is no longer in `openpifpaf.transforms.` because of th
 
 There were also a few very minor bugs which I fixed. So Now the component is up and running and I have made [Pull-request](https://github.com/robocomp/human-detection/pull/5) for the same, do check it out!!!
 
-##### Status: Under Review
+##### Status: Merged
