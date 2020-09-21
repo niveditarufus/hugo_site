@@ -80,7 +80,7 @@ theme = "LoveIt"
       # title shown in home page
       title = ""
       # subtitle shown in home page
-      subtitle = "My GSoC 2020 Journey" 
+      subtitle = "My Google Summer of Code 2020 Journey" 
       typeit = true
 
     [params.home.posts]
